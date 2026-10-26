@@ -1,6 +1,7 @@
 # Forages MLOps — prédiction du risque de panne à 90 jours
 
 Projet pédagogique complet : entraînement reproductible, comparaison de modèles, API FastAPI, tests, Docker, CI et surveillance de dérive. Les données fournies sont fictives. La sortie est une aide à la priorisation, pas une décision automatique de maintenance.
+Projet effectué par IMA B. IGOR ADAM & KANAZOE MOUBARAK
 
 ## 1. Données et cible
 - `data/forages_historique.csv` : 3 000 lignes pour entraîner/évaluer.
